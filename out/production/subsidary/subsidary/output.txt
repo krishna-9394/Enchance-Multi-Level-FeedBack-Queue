@@ -1,0 +1,12 @@
+PID		AT		BT		WT		TurnT		CompT		Done By		Helped By
+1		0		10		5		15			15			Processor 1		NO ONE
+2		0		10		5		15			15			Processor 2		NO ONE
+3		0		10		10		20			20			Processor 1		NO ONE
+4		0		10		10		20			20			Processor 2		NO ONE
+Average Waiting Time : 3.75
+Average TurnAround Time : 8.75
+Job Done by HighLevel Queue: 20
+Job Done by MidLevel Queue: 20
+Job Done by Lowlevel Queue: 0
+
+ Total Time to Complete all process is : 20
